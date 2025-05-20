@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 94, 0);
+}
+
+button{
+    height: 70px;
+    width: 90px;
+    background-color: rgb(0, 255, 242);
+    text-align: center;
+    font-size: 8px;
+}
+
+.kk{
+   
+    border-radius:  100%; ;
+    border-color: rgb(166, 255, 0);
+    background-color: rgb(200, 255, 0);
+    height: 140px;
+    width: 140px;
+    margin-top: 120px;
+    margin-left: 340px;
+    font-size: 20px;
+}
+
+.div{
+    margin-top: 180px;
+    margin-left: 180px;
+    
+}
